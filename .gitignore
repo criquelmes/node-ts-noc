@@ -5,3 +5,6 @@ logs/
 .DS_Store
 
 .env
+
+mongo/
+postgres/
