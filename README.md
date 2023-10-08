@@ -13,7 +13,13 @@ El objetivo es crear una serie de tareas usando Clean Architecture con TypeScrip
    docker-compose up -d
    ```
 
-5. Ejecutar el comando `npm run dev`
+5. Ejecutar el comando
+
+   ```
+   npx prisma migrate dev
+   ```
+
+6. Ejecutar el comando `npm run dev`
 
 ## Obtener Gmail Key
 

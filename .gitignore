@@ -5,6 +5,10 @@ logs/
 .DS_Store
 
 .env
+.env.test
 
 mongo/
 postgres/
+mongo-test/
+postgres-test/
+coverage/
